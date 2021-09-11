@@ -1,0 +1,27 @@
+00:00:00.913027 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.913030 Log opened 2020-09-28T00:56:12.181461500Z
+00:00:00.913030 Build Type: release
+00:00:00.913036 OS Product: Windows 10
+00:00:00.913037 OS Release: 10.0.17763
+00:00:00.913037 OS Service Pack: 
+00:00:00.931801 DMI Product Name: Aspire A515-51
+00:00:00.937502 DMI Product Version: V1.10
+00:00:00.937522 Firmware type: UEFI
+00:00:00.937955 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.937982 Host RAM: 3971MB (3.8GB) total, 1541MB available
+00:00:00.937988 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.937988 Process ID: 5456
+00:00:00.937989 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.938173 Qt version: 5.6.2
+00:00:00.962342 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.886571 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:27.231062 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:30.103504 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:30.757909 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:30.781973 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:32:13.921387 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:33:22.260496 GUI: UIMediumEnumerator: Medium with key={{996f556c-7a63-4301-bdc2-3da22249f2cc}} created
+00:33:22.388102 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:34.739590 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:35.368511 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:35.418494 GUI: UIMediumEnumerator: Medium-enumeration finished!

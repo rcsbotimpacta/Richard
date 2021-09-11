@@ -1,0 +1,93 @@
+00:00:00.001006 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.001008 main     Log opened 2020-09-28T00:56:11.614474900Z
+00:00:00.001009 main     Build Type: release
+00:00:00.001017 main     OS Product: Windows 10
+00:00:00.001018 main     OS Release: 10.0.17763
+00:00:00.001019 main     OS Service Pack: 
+00:00:00.029444 main     DMI Product Name: Aspire A515-51
+00:00:00.048779 main     DMI Product Version: V1.10
+00:00:00.048798 main     Firmware type: UEFI
+00:00:00.049181 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.049212 main     Host RAM: 3971MB (3.8GB) total, 1561MB available
+00:00:00.049217 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.049218 main     Process ID: 3616
+00:00:00.049219 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.225654          VirtualBox: object creation starts
+00:00:00.225962          Home directory: 'C:\Users\Richard\.VirtualBox'
+00:00:00.226070          Installed Drivers:
+00:00:00.232926            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.233677            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.234207            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.235056            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.238447          Loading settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.241057          usbLibGetDevices: Starting USB device enumeration
+00:00:00.243308          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.243481          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.245825          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.245898          USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x3015)
+00:00:00.245968          USB: Unknown USB device detected (idVendor: 0x1bcf, idProduct: 0x2ca0)
+00:00:00.491626          HostDnsMonitor: initializing
+00:00:00.507900          HostDnsMonitor: updating information
+00:00:00.507936          HostDnsMonitor: old information
+00:00:00.507937            no server entries
+00:00:00.507938            no domain set
+00:00:00.507939            no search string entries
+00:00:00.507940          HostDnsMonitor: new information
+00:00:00.507940            server 1: 192.168.1.1
+00:00:00.507941            no domain set
+00:00:00.507941            no search string entries
+00:00:00.510667          VD: VDInit finished with VINF_SUCCESS
+00:00:00.515029          Loading settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:00:00.516334          VirtualBox: object created
+00:00:12.095204          Launched VM: 15276720 pid: 3888 (0xf30) frontend: GUI/Qt name: windows10
+00:00:18.162862          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:18.616945          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:26.859911          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:00:36.514859 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:36.517095 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:36.517380 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:36.517887 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:04:30.175116 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:04:30.177413 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:04:30.182711 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:09:29.724512          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:09:29.812303          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:09:30.363900          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:09:30.410560          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:09:41.371289          Launched VM: 15400416 pid: 3236 (0xca4) frontend: GUI/Qt name: windows10
+00:09:47.718641          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:09:48.188647          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:10:46.806887 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:10:46.809206 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:10:46.809510 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&38ac6741&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:10:46.809874 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:32:12.985834          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:32:13.538494          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:32:24.161231          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:33:21.374755 createBase Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:33:21.936176          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:33:21.944314          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:33:21.950471          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:33:21.961488          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:33:21.967798          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:33:29.270982          Launched VM: 15394448 pid: 4128 (0x1020) frontend: GUI/Qt name: windows10
+00:33:34.619954          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:33:34.979161          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:41:34.374777          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:41:34.438185          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:41:34.980699          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:41:35.034580          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:45:37.889911          Launched VM: 15618208 pid: 1672 (0x688) frontend: GUI/Qt name: windows10
+00:45:42.699799          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:45:43.028386          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:47:09.709126          Saving settings file "C:\Users\Richard\VirtualBox VMs\windows10\windows10.vbox" with version "1.15-windows"
+00:47:16.410530          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:26.914665          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:26.931263          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:26.998306          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:27.006256          Saving settings file "C:\Users\Richard\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:47:33.032475 main     VirtualBox: object deletion starts
+00:47:33.039634 main     HostDnsMonitor: shutting down ...
+00:47:33.040363 main     HostDnsMonitor: shut down
+00:47:33.052490 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:47:33.053830 main     VirtualBox: object deleted

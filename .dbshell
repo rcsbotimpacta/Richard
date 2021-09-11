@@ -1,0 +1,48 @@
+mongod
+show collections;
+show databases;
+show databases;
+use aprendendo;
+show collections;
+db.usuarios.find();
+use Categoria
+show databases;
+show collections
+show databases
+use blogapp
+show collections
+db.categorias.find()
+show databases
+use blogapp
+show collections
+db.categorias.find()
+show databases
+use blogapp
+db.categorias.find()
+mongo
+use blogapp
+db.categorias.find()
+db.categorias.find(0 db.categorias.find() )
+db.categorias.find()
+mongo
+show databases
+clear
+use blogapp
+db.categorias.find()
+show databases
+use blogapp
+show collections
+db.categorias.find()
+use colletions
+show collections
+show databases
+use blogapp
+db.categorias.find()
+show databases
+use blogapp
+show collections
+db.postagens.find()
+show databases
+use blogapp
+show collections
+db.categorias.find()
