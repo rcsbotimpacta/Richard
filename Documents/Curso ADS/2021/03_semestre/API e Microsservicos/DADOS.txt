@@ -1,0 +1,18 @@
+PARTE 1
+https://www.youtube.com/watch?v=jQCiHKBMQnY 
+
+https://www.youtube.com/watch?v=RfET6llgisM
+
+PARTE 2
+https://www.youtube.com/watch?v=kEx0_5irG8Q
+
+treina sql
+https://www.urionlinejudge.com.br/judge/pt/problems/index/9
+
+criar/ testar sqlite
+https://sqliteonline.com/
+
+PARTE 3
+https://www.youtube.com/watch?v=OteJR7RpJWc
+
+https://www.alura.com.br/artigos/como-armazenar-senhas-no-banco-de-dados-de-forma-segura
