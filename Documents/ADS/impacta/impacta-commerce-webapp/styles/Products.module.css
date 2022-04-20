@@ -1,0 +1,13 @@
+.rowItem{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.itemText {
+    padding: 10px;
+}
+
+.container {
+    padding: 0 2rem;
+}
